@@ -1,0 +1,23 @@
+{
+  "name": "apg-api",
+  "version": "1.0.0",
+  "description": "API for APG - an ABNF Parser Generator.",
+  "main": "./src/api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src",
+    "abnf",
+    "apg-api.js",
+    "apg-api-min.js",
+    "index.md",
+    "docco-gen"
+  ],
+    "dependencies": {
+    "apg-lib": "3.x",
+    "apg-conv-api": "1.x"
+  },
+  "author": "Lowell D. Thomas <lowell@coasttocoastresearch.com> (http://coasttocoastresearch.com)",
+  "license": "BSD-3-Clause"
+}
