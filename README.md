@@ -1,6 +1,6 @@
 ## APG API
 
-**apg** has been split into two repositories, [**apg**]((https://github.com/ldthomas/apg-js2)
+**apg** has been split into two repositories, [**apg**](https://github.com/ldthomas/apg-js2)
 and this developer's API. 
 This API accomplishes two goals. a) it provides much more flexible access to the underlying generation operations
 and b) it removes all I/O from the API. The node.js "fs" module is incompatible with some development frameworks.
