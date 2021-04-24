@@ -1,6 +1,6 @@
 ## APG API
 
-> _**deprecated** Use the updated version [**apg-js**](https://github.com/ldthomas/apg-js)._
+> _**Deprecated** Use the updated version [**apg-js**](https://github.com/ldthomas/apg-js) instead._
 
 **apg** has been split into two repositories, [**apg**](https://github.com/ldthomas/apg-js2)
 and this developer's API.
